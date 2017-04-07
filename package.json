@@ -31,5 +31,8 @@
   },
   "scripts": {
     "postinstall": "jspm install"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
   }
 }
