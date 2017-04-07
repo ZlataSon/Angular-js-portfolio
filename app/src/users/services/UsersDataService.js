@@ -54,7 +54,7 @@ function UsersDataService($q) {
       },
     {
       name: 'Zlata Son',
-      avatar: 'svg-20',
+      avatar: 'flower1',
       content: 'The End :-)'
     },
   ];

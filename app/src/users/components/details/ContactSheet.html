@@ -4,7 +4,7 @@
     Contact with me:
   </md-subheader>
 
-  <md-list>
+  <md-list ng-app="submitExample">
     <md-item ng-repeat="item in $ctrl.items">
       <md-button ng-click="$ctrl.performAction(item)">
         <md-icon md-svg-icon="{{ item.icon }}"></md-icon>
