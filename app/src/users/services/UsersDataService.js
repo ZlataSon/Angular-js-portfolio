@@ -15,13 +15,42 @@ function UsersDataService($q) {
     },
     {
       name: 'I am WEB developer',
-      avatar: 'svg-6',
-      content: 'I am Front-end/JS develope. Objective Looking for a job as Front-end/JavaScript developer. Good theoretical knowledge of JavaScript (incl. ES6), HTML/CSS.Experience in front-end development, building single page applications with AngularJS andReactJS frameworks. Experience in back-end development (NodeJS, MongoDB, SQL DB).Good analytical and communication skills, ability to work under pressure and meet deadlines,highly responsible and attentive to details.'
+      avatar: 'robot',
+      content: 'I am Front-end/JS developer.Objective Looking for a job as Front-end/JavaScript developer. ' + ('\n') +
+      'Good theoretical knowledge of JavaScript (incl. ES6), HTML/CSS.' + ('\n') + ('\n') +
+      'Experience in front-end development, building applications with MeteorJS and ReactJS, AngularJS frameworks. ' + ('\n') +
+      'Experience in back-end development (NodeJS, MongoDB, MySQL).' + ('\n') + ('\n') +
+      'Good analytical and communication skills, ability to work under pressure and meet deadlines,highly responsible and attentive to details.'
     },
       {
           name: 'My skills',
-          avatar: 'svg-18',
-          content: "Programming Languages * JavaScript * HTML/CSS. Frameworks/Libraries * Angular JS * React JS *  MeteorJS * MongoDB * Bootstrap * jQuery * Node JS * SASS * Wordpress * Flexbox. Development Tools * Git * Web/PhpStorm * Gulp * Heroku * Sublime Text * PhotoShop * Gimp * Avocode and other"
+          avatar: 'lamp',
+          content: "Programming Languages:" + ('\n') +
+          " * JavaScript" + ('\n') +
+          " * HTML/CSS/SASS." + ('\n') +
+          ('\n') +
+          "Frameworks/Libraries" + ('\n') +
+          " * React JS" + ('\n') +
+          " * MeteorJS" + ('\n') +
+          " * Angular JS" + ('\n') +
+          " * MongoDB" + ('\n') +
+          " * jQuery" + ('\n') +
+          " * Node JS" + ('\n') +
+          " * Bootstrap & React-Bootstrap " + ('\n') +
+          " * Material design and materialize css" + ('\n') +
+          " * Socket.io " + ('\n') +
+          " * Wordpress " + ('\n') +
+          ('\n') +
+          "Development Tools:" + ('\n') +
+          " * Git" + ('\n') +
+          " * Web/PhpStorm" + ('\n') +
+          " * Gulp" + ('\n') +
+          " * Heroku" + ('\n') +
+          " * Sublime Text" + ('\n') +
+          " * PhotoShop" + ('\n') +
+          " * Gimp" + ('\n') +
+          " * Avocode" + ('\n') +
+          "   and other"
       },
     {
       name: 'Zlata Son',
